@@ -1,0 +1,37 @@
+[
+  {
+    "status":"Completed",
+	"name":"Sachin",
+	"place":"Delhi",
+    "start": "2016-03-01",
+	"color": "red"
+  },
+  {
+    "status":"Cancelled",
+	"name":"Abhishek",
+	"place":"Mumbai",
+    "start": "2016-03-02",
+	"color": "red"
+  },
+  {
+    "status":"Scheduled",
+	"name":"Neeraj",
+	"place":"Mumbai",
+    "start": "2016-03-02",
+	"color": "red"
+  },
+  {
+    "status":"Completed",
+	"name":"Ranjana",
+	"place":"Hyderabad",
+    "start": "2016-03-03",
+	"color": "red"
+  },
+  {
+    "status":"Scheduled",
+	"name":"Ishaq",
+	"place":"Rampur",
+    "start": "2016-03-03",
+	"color": "red"
+  }
+]
